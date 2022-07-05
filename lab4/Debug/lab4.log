@@ -1,0 +1,8 @@
+﻿  BinarySearchTree.cpp
+  main.cpp
+D:\вертолетик\Numfy\асд\lab4\lab4\main.cpp(28,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\вертолетик\Numfy\асд\lab4\lab4\main.cpp(62,27): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\вертолетик\Numfy\асд\lab4\lab4\main.cpp(146,42): warning C4244: +=: преобразование "double" в "uint64_t", возможна потеря данных
+D:\вертолетик\Numfy\асд\lab4\lab4\main.cpp(148,54): warning C4244: +=: преобразование "double" в "uint64_t", возможна потеря данных
+  Создание кода...
+  lab4.vcxproj -> D:\вертолетик\Numfy\асд\lab4\Debug\lab4.exe
